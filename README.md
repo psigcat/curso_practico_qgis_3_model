@@ -1,6 +1,8 @@
-# https://github.com/psigcat/curso_practico_qgis_3_model
 
-# Curso práctico de QGIS 
+# Curso práctico de QGIS
+
+## https://github.com/psigcat/curso_practico_qgis_3_model
+
 ## Tema 3: Model
 https://cibernarium.barcelonactiva.cat/home
 
