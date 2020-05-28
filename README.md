@@ -1,9 +1,8 @@
+# https://github.com/psigcat/curso_practico_qgis_3_model
 
 # Curso práctico de QGIS 
 ## Tema 3: Model
 https://cibernarium.barcelonactiva.cat/home
-
-https://github.com/psigcat/curso_practico_qgis_3_model
 
 #### Resumen del curso
 Aprender a crear modelos de geoprocesamiento
