@@ -1,9 +1,6 @@
-# curso_practico_qgis_3_model
-Aprede a crear un model (geoprocesos consecutivos)
-
 
 # Curso práctico de QGIS 
-## Tema: Ráster, interpolación y otras herramientas
+## Tema 3: Model
 https://cibernarium.barcelonactiva.cat/home
 
 #### Resumen del curso
@@ -18,7 +15,7 @@ Recordeu mantenir desconnectades la vostra càmera i micròfon per evitar interf
 
 Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pengeu, elimineu cookies (o accedir en una pestanya en incògnit) i torneu a accedir. Si segueix sense aparèixer, pots fer les preguntes a través del micròfon al final de la sessió.
 
-### Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
+## Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
 http://psig.es/Curs_QGIS_practic_3_model.zip
 
 .
