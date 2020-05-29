@@ -25,20 +25,12 @@ http://psig.es/Curs_QGIS_practic_3_model.zip
 .
 .
 .
-.
-
-
-
-
 
 #### Aprenderás a hacer modelos
-
-
-
+https://youtu.be/j_hpy0QC2Ak
 
 #### Altres vídeos tutorials en aquest canal
 http://www.youtube.com/c/CarlosLópezQuintanilla
-
 
 
 ### dudas y comentarios
