@@ -32,11 +32,19 @@ https://youtu.be/j_hpy0QC2Ak
 ### Modelo para descargar
 http://psig.es/triple_buffer.model3
 
-#### Altres vídeos tutorials en aquest canal
+### Altres vídeos tutorials en aquest canal
 http://www.youtube.com/c/CarlosLópezQuintanilla
 
 
+### Foro de QGIS en español, canal de Telegram
+https://web.telegram.org/#/im?p=@qgis_es
+
+### Colabora con QGIS, hazte socio
+### Asociación de usuarios de QGIS España
+www.qgis.es
+
 ### dudas y comentarios
 carlos.lopez@psig.es
+
 
 
