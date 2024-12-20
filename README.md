@@ -19,22 +19,14 @@ Recordeu mantenir desconnectades la vostra càmera i micròfon per evitar interf
 Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pengeu, elimineu cookies (o accedir en una pestanya en incògnit) i torneu a accedir. Si segueix sense aparèixer, pots fer les preguntes a través del micròfon al final de la sessió.
 
 ## Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
-https://psig.es/Curs_QGIS_practic_3_model.zip (39 MB)
+[Link material curs](https://we.tl/t-QZ0etLWs7x) (39 MB)
 
-.
-.
-.
-.
 
 #### Aprenderás a hacer modelos
 https://youtu.be/j_hpy0QC2Ak
 
-### Modelo para descargar
-http://psig.es/triple_buffer.model3
-
 ### Altres vídeos tutorials en aquest canal
 http://www.youtube.com/c/CarlosLópezQuintanilla
-
 
 ### Foro de QGIS en español, canal de Telegram
 https://web.telegram.org/#/im?p=@qgis_es
